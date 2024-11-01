@@ -61,7 +61,7 @@
 	<generator>https://wordpress.org/?v=6.7-RC2</generator>
 
 		<item>
-		<title><![CDATA[Hello world!]]></title>
+		<title><![CDATA[Navigate to entity test]]></title>
 		<link>http://localhost:10005/?p=1</link>
 		<pubDate>Fri, 01 Nov 2024 16:30:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
