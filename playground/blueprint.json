@@ -10,13 +10,6 @@
 			"step": "resetData"
 		},
 		{
-			"step": "importWxr",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Tropicalista/navigate-to-entity/refs/heads/master/playground/content.xml"
-			}
-		},
-		{
             "step": "installPlugin",
             "pluginData": {
                 "resource": "url",
@@ -25,6 +18,13 @@
             "options": {
                 "activate": true
             }
-        }
+        },
+		{
+			"step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Tropicalista/navigate-to-entity/refs/heads/master/playground/content.xml"
+			}
+		}
 	]
 }
