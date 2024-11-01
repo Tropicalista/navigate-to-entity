@@ -12,6 +12,16 @@
 				"resource": "url",
 				"url": "https://raw.githubusercontent.com/Tropicalista/navigate-to-entity/refs/heads/master/playground/content.xml"
 			}
-		}
+		},
+		{
+            "step": "installPlugin",
+            "pluginData": {
+                "resource": "url",
+                "url": "https://github-proxy.com/proxy/?repo=tropicalista/navigate-to-entity&branch=master"
+            },
+            "options": {
+                "activate": true
+            }
+        }
 	]
 }
