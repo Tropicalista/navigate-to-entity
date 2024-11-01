@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Custom Query Vars
+Plugin Name: Test Navigate To Entity
 */
 
 add_action(
