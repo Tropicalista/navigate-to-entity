@@ -10,7 +10,7 @@
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/tropicalista/block-visibility/main/_playground/demo-content.xml"
+				"url": "https://raw.githubusercontent.com/Tropicalista/navigate-to-entity/refs/heads/master/playground/content.xml"
 			}
 		}
 	]
