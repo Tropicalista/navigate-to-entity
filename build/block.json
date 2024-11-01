@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "test/sample",
+  "title": "Navigate to Entity wp_block",
+  "description": "Navigate to entity wp_block.",
+  "category": "formello",
+  "icon": "button",
+  "attributes": {
+    "ref": {
+      "type": "number"
+    },
+    "postType": {
+      "type": "string",
+      "default": "wp_block"
+    }
+  },
+  "editorScript": "file:./index.js"
+}
