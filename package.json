@@ -24,5 +24,8 @@
     "includes/**",
     "formello.php",
     "readme.txt"
-  ]
+  ],
+  "dependencies": {
+    "@wordpress/dataviews": "^4.7.0"
+  }
 }
